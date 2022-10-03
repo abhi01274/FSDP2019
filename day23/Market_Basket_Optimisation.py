@@ -38,7 +38,7 @@ for item in results:
     print("Support: " + str(item[1]))
     print("Confidence: " + str(item[2][0][2]))
     print("Lift: " + str(item[2][0][3]))
-    print("=====================================")
+    print("--------------------------------------")
 
 
 
